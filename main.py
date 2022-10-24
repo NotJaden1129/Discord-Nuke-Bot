@@ -10,7 +10,7 @@ import asyncio
 
 
 #Bot Token 
-token = input(f"Enter Your Bot Token: ")
+token = input(f"MTAzMzg3MDA5NDM4NTgxNTU5Mg.G4Bqx2.MI8Sr99v1RZCmYoR6EIAsxN2y62pD93EdusjQE: ")
 #Enter Prefix For Your Bot
 prefix = input(f"Enter Prefix For Your Bot: ")
 #enter Your User id like - Example#6969
